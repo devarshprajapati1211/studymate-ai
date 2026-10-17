@@ -1,4 +1,3 @@
-
 # StudyMate AI 🎓✨
 > **"Study smarter. Plan better. Achieve more."**
 
@@ -117,3 +116,8 @@ CORS_ORIGINS="http://localhost:5173,http://127.0.0.1:5173,http://localhost:3000"
 
 ---
 
+## 🧪 Quick Demo
+
+1. Open `http://localhost:5173/login`.
+2. Click the **"1-Click Demo Login (Alex — DBMS in 5 days)"** button.
+3. You will immediately access the populated dashboard with all 4 subjects, exam countdowns, today's tasks, weekly study roadmap, and active analytics.
