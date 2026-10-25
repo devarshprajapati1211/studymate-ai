@@ -14,7 +14,7 @@ db = Database()
 
 
 async def connect_to_mongo():
-    logger.info(f"Connecting to MongoDB at {settings.MONGODB_URL}...")
+    logger.info("Connecting to MongoDB Atlas...")
     db.client = AsyncIOMotorClient(
         settings.MONGODB_URL,
         maxPoolSize=50,
